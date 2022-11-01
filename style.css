@@ -71,9 +71,9 @@ body{
     box-shadow: inset 200px 0 0 0 #33eb70;
 }
 
-@media (max-width: 500px){
+@media (max-width: 550px){
     .container{
-        width: 300px;
+        width: 75vw;
     }
 }
 
